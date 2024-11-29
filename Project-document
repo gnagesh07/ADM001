@@ -1,0 +1,7 @@
+Project title : Employee Management System
+Model Class : Employee
+DAO clss : EmployeeService
+Main class : DemoController
+Database Connection : DBconnect
+Database config : db.prop
+
